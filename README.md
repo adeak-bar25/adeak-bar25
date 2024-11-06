@@ -1,2 +1,2 @@
 # Hi, I'm Ade Akbar👋
-![Visitor Count](https://profile-counter.glitch.me/{adeak-bar25}/count.svg)
+![](https://api.visitorbadge.io/api/VisitorHit?user=adeak-bar25&repo=github-visitors-badge&countColor=%237B1E7A)
